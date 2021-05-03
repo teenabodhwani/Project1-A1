@@ -1,4 +1,4 @@
-- hosts: sg-06012e6325db4d623
+- hosts: security_group_web_server_dmz 
   become: true
   tasks:
   
