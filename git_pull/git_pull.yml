@@ -1,4 +1,4 @@
-- hosts: security_group_web_server_dmz
+- hosts: all
   become: true
   tasks:
   
