@@ -1,4 +1,4 @@
-- hosts: 172.31.1.25
+- hosts: sg-06012e6325db4d623
   become: true
   tasks:
   
