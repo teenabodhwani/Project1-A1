@@ -1,4 +1,4 @@
-- hosts: security_group_launch-wizard-38
+- hosts: security_group_web_server_dmz
   become: true
   tasks:
   
